@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeHoldingMarketStore", "PrimeHoldingMarketStore\PrimeHoldingMarketStore.csproj", "{48A3C399-A9F3-474E-A694-BD9794D50F3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketStore", "MarketStore\MarketStore.csproj", "{7F62B1FA-893F-4965-89FC-AD896F5AC73F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48A3C399-A9F3-474E-A694-BD9794D50F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A3C399-A9F3-474E-A694-BD9794D50F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A3C399-A9F3-474E-A694-BD9794D50F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A3C399-A9F3-474E-A694-BD9794D50F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F62B1FA-893F-4965-89FC-AD896F5AC73F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F62B1FA-893F-4965-89FC-AD896F5AC73F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F62B1FA-893F-4965-89FC-AD896F5AC73F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F62B1FA-893F-4965-89FC-AD896F5AC73F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {287A7D6F-32A9-4069-86F9-D3A1D16654DF}
+	EndGlobalSection
+EndGlobal
